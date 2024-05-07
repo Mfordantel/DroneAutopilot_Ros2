@@ -1,7 +1,6 @@
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Float64, Float64MultiArray, UInt16MultiArray
-import time
 import math
 
 class AutopilotNode(Node):
