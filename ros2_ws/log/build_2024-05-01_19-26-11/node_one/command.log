@@ -1,0 +1,4 @@
+Invoking command in '/home/mford/ros2_ws/build/node_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mford/ros2_ws/build/node_one -- -j8 -l8
+Invoked command in '/home/mford/ros2_ws/build/node_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mford/ros2_ws/build/node_one -- -j8 -l8
+Invoking command in '/home/mford/ros2_ws/build/node_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mford/ros2_ws/build/node_one
+Invoked command in '/home/mford/ros2_ws/build/node_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mford/ros2_ws/build/node_one

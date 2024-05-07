@@ -1,0 +1,24 @@
+[1.978s] Invoking command in '/home/mford/ros2_ws/src/publisher_pkg': PYTHONPATH=/home/mford/ros2_ws/build/publisher_pkg/prefix_override:/home/mford/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/mford/ros2_ws/build/publisher_pkg/build install --record /home/mford/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[2.277s] running egg_info
+[2.278s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[2.279s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[2.279s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[2.279s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[2.279s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[2.282s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[2.283s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[2.283s] running build
+[2.283s] running build_py
+[2.283s] copying publisher_pkg/publisher.py -> /home/mford/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg
+[2.284s] running install
+[2.284s] running install_lib
+[2.286s] copying /home/mford/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg/publisher.py -> /home/mford/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+[2.287s] byte-compiling /home/mford/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/publisher.py to publisher.cpython-310.pyc
+[2.288s] running install_data
+[2.288s] running install_egg_info
+[2.291s] removing '/home/mford/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.291s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/mford/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+[2.292s] running install_scripts
+[2.329s] Installing publisher script to /home/mford/ros2_ws/install/publisher_pkg/lib/publisher_pkg
+[2.330s] writing list of installed files to '/home/mford/ros2_ws/build/publisher_pkg/install.log'
+[2.437s] Invoked command in '/home/mford/ros2_ws/src/publisher_pkg' returned '0': PYTHONPATH=/home/mford/ros2_ws/build/publisher_pkg/prefix_override:/home/mford/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/mford/ros2_ws/build/publisher_pkg/build install --record /home/mford/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[1.866s] Invoking command in '/home/mford/ros2_ws/src/my_py_package': PYTHONPATH=/home/mford/ros2_ws/build/my_py_package/prefix_override:/home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_package build --build-base /home/mford/ros2_ws/build/my_py_package/build install --record /home/mford/ros2_ws/build/my_py_package/install.log --single-version-externally-managed install_data
+[2.180s] running egg_info
+[2.181s] writing ../../build/my_py_package/my_py_package.egg-info/PKG-INFO
+[2.181s] writing dependency_links to ../../build/my_py_package/my_py_package.egg-info/dependency_links.txt
+[2.181s] writing entry points to ../../build/my_py_package/my_py_package.egg-info/entry_points.txt
+[2.182s] writing requirements to ../../build/my_py_package/my_py_package.egg-info/requires.txt
+[2.182s] writing top-level names to ../../build/my_py_package/my_py_package.egg-info/top_level.txt
+[2.185s] reading manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[2.186s] writing manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[2.186s] running build
+[2.186s] running build_py
+[2.187s] running install
+[2.187s] running install_lib
+[2.189s] running install_data
+[2.189s] running install_egg_info
+[2.192s] removing '/home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package-0.0.0-py3.10.egg-info' (and everything under it)
+[2.193s] Copying ../../build/my_py_package/my_py_package.egg-info to /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package-0.0.0-py3.10.egg-info
+[2.195s] running install_scripts
+[2.225s] Installing my_publisher script to /home/mford/ros2_ws/install/my_py_package/lib/my_py_package
+[2.227s] writing list of installed files to '/home/mford/ros2_ws/build/my_py_package/install.log'
+[2.310s] Invoked command in '/home/mford/ros2_ws/src/my_py_package' returned '0': PYTHONPATH=/home/mford/ros2_ws/build/my_py_package/prefix_override:/home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_package build --build-base /home/mford/ros2_ws/build/my_py_package/build install --record /home/mford/ros2_ws/build/my_py_package/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = publisher_pkg.publisher:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+subscriber = subscriber_pkg.subscriber:main
+

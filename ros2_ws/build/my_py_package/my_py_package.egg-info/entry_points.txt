@@ -1,0 +1,3 @@
+[console_scripts]
+my_publisher = my_py_package.my_publisher:main
+

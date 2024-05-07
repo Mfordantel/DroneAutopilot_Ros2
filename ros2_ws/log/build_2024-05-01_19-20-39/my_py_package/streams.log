@@ -1,0 +1,37 @@
+[1.891s] Invoking command in '/home/mford/ros2_ws/src/my_py_package': PYTHONPATH=/home/mford/ros2_ws/build/my_py_package/prefix_override:/home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_package build --build-base /home/mford/ros2_ws/build/my_py_package/build install --record /home/mford/ros2_ws/build/my_py_package/install.log --single-version-externally-managed install_data
+[2.191s] running egg_info
+[2.192s] creating ../../build/my_py_package/my_py_package.egg-info
+[2.193s] writing ../../build/my_py_package/my_py_package.egg-info/PKG-INFO
+[2.193s] writing dependency_links to ../../build/my_py_package/my_py_package.egg-info/dependency_links.txt
+[2.194s] writing entry points to ../../build/my_py_package/my_py_package.egg-info/entry_points.txt
+[2.195s] writing requirements to ../../build/my_py_package/my_py_package.egg-info/requires.txt
+[2.196s] writing top-level names to ../../build/my_py_package/my_py_package.egg-info/top_level.txt
+[2.196s] writing manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[2.197s] reading manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[2.198s] writing manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[2.199s] running build
+[2.200s] running build_py
+[2.201s] creating /home/mford/ros2_ws/build/my_py_package/build
+[2.202s] creating /home/mford/ros2_ws/build/my_py_package/build/lib
+[2.203s] creating /home/mford/ros2_ws/build/my_py_package/build/lib/my_py_package
+[2.204s] copying my_py_package/__init__.py -> /home/mford/ros2_ws/build/my_py_package/build/lib/my_py_package
+[2.205s] copying my_py_package/my_publisher.py -> /home/mford/ros2_ws/build/my_py_package/build/lib/my_py_package
+[2.206s] running install
+[2.207s] running install_lib
+[2.207s] creating /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package
+[2.208s] copying /home/mford/ros2_ws/build/my_py_package/build/lib/my_py_package/__init__.py -> /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package
+[2.209s] copying /home/mford/ros2_ws/build/my_py_package/build/lib/my_py_package/my_publisher.py -> /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package
+[2.209s] byte-compiling /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package/__init__.py to __init__.cpython-310.pyc
+[2.210s] byte-compiling /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package/my_publisher.py to my_publisher.cpython-310.pyc
+[2.211s] running install_data
+[2.212s] creating /home/mford/ros2_ws/install/my_py_package/share/ament_index
+[2.213s] creating /home/mford/ros2_ws/install/my_py_package/share/ament_index/resource_index
+[2.216s] creating /home/mford/ros2_ws/install/my_py_package/share/ament_index/resource_index/packages
+[2.216s] copying resource/my_py_package -> /home/mford/ros2_ws/install/my_py_package/share/ament_index/resource_index/packages
+[2.218s] copying package.xml -> /home/mford/ros2_ws/install/my_py_package/share/my_py_package
+[2.218s] running install_egg_info
+[2.219s] Copying ../../build/my_py_package/my_py_package.egg-info to /home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package-0.0.0-py3.10.egg-info
+[2.220s] running install_scripts
+[2.286s] Installing my_publisher script to /home/mford/ros2_ws/install/my_py_package/lib/my_py_package
+[2.287s] writing list of installed files to '/home/mford/ros2_ws/build/my_py_package/install.log'
+[2.304s] Invoked command in '/home/mford/ros2_ws/src/my_py_package' returned '0': PYTHONPATH=/home/mford/ros2_ws/build/my_py_package/prefix_override:/home/mford/ros2_ws/install/my_py_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_package build --build-base /home/mford/ros2_ws/build/my_py_package/build install --record /home/mford/ros2_ws/build/my_py_package/install.log --single-version-externally-managed install_data

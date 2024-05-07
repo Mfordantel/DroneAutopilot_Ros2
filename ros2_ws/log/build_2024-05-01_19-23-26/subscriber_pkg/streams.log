@@ -1,0 +1,27 @@
+[1.892s] Invoking command in '/home/mford/ros2_ws/src/subscriber_pkg': PYTHONPATH=/home/mford/ros2_ws/build/subscriber_pkg/prefix_override:/home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/subscriber_pkg build --build-base /home/mford/ros2_ws/build/subscriber_pkg/build install --record /home/mford/ros2_ws/build/subscriber_pkg/install.log --single-version-externally-managed install_data
+[2.183s] running egg_info
+[2.184s] writing ../../build/subscriber_pkg/subscriber_pkg.egg-info/PKG-INFO
+[2.185s] writing dependency_links to ../../build/subscriber_pkg/subscriber_pkg.egg-info/dependency_links.txt
+[2.186s] writing entry points to ../../build/subscriber_pkg/subscriber_pkg.egg-info/entry_points.txt
+[2.186s] writing requirements to ../../build/subscriber_pkg/subscriber_pkg.egg-info/requires.txt
+[2.187s] writing top-level names to ../../build/subscriber_pkg/subscriber_pkg.egg-info/top_level.txt
+[2.192s] reading manifest file '../../build/subscriber_pkg/subscriber_pkg.egg-info/SOURCES.txt'
+[2.193s] writing manifest file '../../build/subscriber_pkg/subscriber_pkg.egg-info/SOURCES.txt'
+[2.194s] running build
+[2.194s] running build_py
+[2.195s] running install
+[2.197s] running install_lib
+[2.201s] byte-compiling /home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg/subscriber.py to subscriber.cpython-310.pyc
+[2.201s] running install_data
+[2.202s]   File "/home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg/subscriber.py", line 26
+[2.202s]     main()def main():
+[2.203s]           ^^^
+[2.203s] SyntaxError: invalid syntax
+[2.203s] 
+[2.204s] running install_egg_info
+[2.207s] removing '/home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.208s] Copying ../../build/subscriber_pkg/subscriber_pkg.egg-info to /home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg-0.0.0-py3.10.egg-info
+[2.209s] running install_scripts
+[2.232s] Installing subscriber script to /home/mford/ros2_ws/install/subscriber_pkg/lib/subscriber_pkg
+[2.233s] writing list of installed files to '/home/mford/ros2_ws/build/subscriber_pkg/install.log'
+[2.317s] Invoked command in '/home/mford/ros2_ws/src/subscriber_pkg' returned '0': PYTHONPATH=/home/mford/ros2_ws/build/subscriber_pkg/prefix_override:/home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/subscriber_pkg build --build-base /home/mford/ros2_ws/build/subscriber_pkg/build install --record /home/mford/ros2_ws/build/subscriber_pkg/install.log --single-version-externally-managed install_data

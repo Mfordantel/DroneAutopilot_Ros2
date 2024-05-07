@@ -1,0 +1,5 @@
+  File "/home/mford/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg/subscriber.py", line 26
+    main()def main():
+          ^^^
+SyntaxError: invalid syntax
+
